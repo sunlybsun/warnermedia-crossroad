@@ -1,0 +1,30 @@
+E:\找工作\itlize\Warner Media Project\WarnerMedia.Data\bin\Debug\net5.0\WarnerMedia.Data.deps.json
+E:\找工作\itlize\Warner Media Project\WarnerMedia.Data\bin\Debug\net5.0\WarnerMedia.Data.runtimeconfig.json
+E:\找工作\itlize\Warner Media Project\WarnerMedia.Data\bin\Debug\net5.0\WarnerMedia.Data.runtimeconfig.dev.json
+E:\找工作\itlize\Warner Media Project\WarnerMedia.Data\bin\Debug\net5.0\WarnerMedia.Data.dll
+E:\找工作\itlize\Warner Media Project\WarnerMedia.Data\bin\Debug\net5.0\ref\WarnerMedia.Data.dll
+E:\找工作\itlize\Warner Media Project\WarnerMedia.Data\bin\Debug\net5.0\WarnerMedia.Data.pdb
+E:\找工作\itlize\Warner Media Project\WarnerMedia.Data\obj\Debug\net5.0\WarnerMedia.Data.GeneratedMSBuildEditorConfig.editorconfig
+E:\找工作\itlize\Warner Media Project\WarnerMedia.Data\obj\Debug\net5.0\WarnerMedia.Data.AssemblyInfoInputs.cache
+E:\找工作\itlize\Warner Media Project\WarnerMedia.Data\obj\Debug\net5.0\WarnerMedia.Data.AssemblyInfo.cs
+E:\找工作\itlize\Warner Media Project\WarnerMedia.Data\obj\Debug\net5.0\WarnerMedia.Data.csproj.CoreCompileInputs.cache
+E:\找工作\itlize\Warner Media Project\WarnerMedia.Data\obj\Debug\net5.0\WarnerMedia.Data.dll
+E:\找工作\itlize\Warner Media Project\WarnerMedia.Data\obj\Debug\net5.0\ref\WarnerMedia.Data.dll
+E:\找工作\itlize\Warner Media Project\WarnerMedia.Data\obj\Debug\net5.0\WarnerMedia.Data.pdb
+E:\找工作\itlize\Warner Media Project\WarnerMedia.Data\obj\Debug\net5.0\WarnerMedia.Data.genruntimeconfig.cache
+E:\找工作\itlize\Warner Media Project\WarnerMedia.Data\obj\Debug\net5.0\WarnerMedia.Data.csprojAssemblyReference.cache
+E:\找工作\itlize\Warner Media Project\github\WarnerMedia-CrossRoad\BackEnd .Net Core\WarnerMedia.Data\bin\Debug\net5.0\WarnerMedia.Data.deps.json
+E:\找工作\itlize\Warner Media Project\github\WarnerMedia-CrossRoad\BackEnd .Net Core\WarnerMedia.Data\bin\Debug\net5.0\WarnerMedia.Data.runtimeconfig.json
+E:\找工作\itlize\Warner Media Project\github\WarnerMedia-CrossRoad\BackEnd .Net Core\WarnerMedia.Data\bin\Debug\net5.0\WarnerMedia.Data.runtimeconfig.dev.json
+E:\找工作\itlize\Warner Media Project\github\WarnerMedia-CrossRoad\BackEnd .Net Core\WarnerMedia.Data\bin\Debug\net5.0\WarnerMedia.Data.dll
+E:\找工作\itlize\Warner Media Project\github\WarnerMedia-CrossRoad\BackEnd .Net Core\WarnerMedia.Data\bin\Debug\net5.0\ref\WarnerMedia.Data.dll
+E:\找工作\itlize\Warner Media Project\github\WarnerMedia-CrossRoad\BackEnd .Net Core\WarnerMedia.Data\bin\Debug\net5.0\WarnerMedia.Data.pdb
+E:\找工作\itlize\Warner Media Project\github\WarnerMedia-CrossRoad\BackEnd .Net Core\WarnerMedia.Data\obj\Debug\net5.0\WarnerMedia.Data.csprojAssemblyReference.cache
+E:\找工作\itlize\Warner Media Project\github\WarnerMedia-CrossRoad\BackEnd .Net Core\WarnerMedia.Data\obj\Debug\net5.0\WarnerMedia.Data.GeneratedMSBuildEditorConfig.editorconfig
+E:\找工作\itlize\Warner Media Project\github\WarnerMedia-CrossRoad\BackEnd .Net Core\WarnerMedia.Data\obj\Debug\net5.0\WarnerMedia.Data.AssemblyInfoInputs.cache
+E:\找工作\itlize\Warner Media Project\github\WarnerMedia-CrossRoad\BackEnd .Net Core\WarnerMedia.Data\obj\Debug\net5.0\WarnerMedia.Data.AssemblyInfo.cs
+E:\找工作\itlize\Warner Media Project\github\WarnerMedia-CrossRoad\BackEnd .Net Core\WarnerMedia.Data\obj\Debug\net5.0\WarnerMedia.Data.csproj.CoreCompileInputs.cache
+E:\找工作\itlize\Warner Media Project\github\WarnerMedia-CrossRoad\BackEnd .Net Core\WarnerMedia.Data\obj\Debug\net5.0\WarnerMedia.Data.dll
+E:\找工作\itlize\Warner Media Project\github\WarnerMedia-CrossRoad\BackEnd .Net Core\WarnerMedia.Data\obj\Debug\net5.0\ref\WarnerMedia.Data.dll
+E:\找工作\itlize\Warner Media Project\github\WarnerMedia-CrossRoad\BackEnd .Net Core\WarnerMedia.Data\obj\Debug\net5.0\WarnerMedia.Data.pdb
+E:\找工作\itlize\Warner Media Project\github\WarnerMedia-CrossRoad\BackEnd .Net Core\WarnerMedia.Data\obj\Debug\net5.0\WarnerMedia.Data.genruntimeconfig.cache
