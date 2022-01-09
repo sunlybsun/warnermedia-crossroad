@@ -1,0 +1,22 @@
+.carousel-inner,
+.carousel-item {
+  height: 300px !important;
+  background-color: rgb(14, 25, 26);
+}
+
+.carousel-item img {
+  height: 300px !important;
+  margin: auto;
+  z-index: 20;
+}
+
+input {
+  margin: auto;
+  width: 50% !important;
+  border: 3px solid rgb(14, 25, 26) !important;
+  padding: 10px;
+}
+
+.form-inline {
+  background-color: rgb(14, 25, 26);
+}

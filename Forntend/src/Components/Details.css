@@ -1,0 +1,39 @@
+.detail {
+  background: rgb(0, 42, 50);
+  color: #ffffff;
+}
+
+.award {
+  font-size: 15px;
+  margin-left: 20px;
+}
+.detail .content {
+  display: flex;
+}
+
+.detail .content span {
+  font-size: 20px;
+  font-weight: 300;
+}
+
+.detail .content .plot p {
+  flex: 1 1 50%;
+  padding: 15px;
+  font-size: 20px;
+}
+
+.detail .content span {
+  font-size: 20px;
+  font-weight: 300;
+}
+
+.detail h5 {
+  font-size: 20px;
+  font-weight: 600;
+  margin-top: 15px;
+  margin-left: 5px;
+}
+
+.backButton {
+  margin-top: 15px;
+}
